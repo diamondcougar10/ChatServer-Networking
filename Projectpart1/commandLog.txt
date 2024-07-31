@@ -1,0 +1,24 @@
+hello
+hello
+hey
+
+
+~register user1 password1
+~register user2 password2
+~register user3 password3
+~login user1password2
+~login user1password1
+~register user2 password2
+~login
+hey
+~login user1 password1
+Hello from user2
+~register user1 password1
+~register user2 password2
+~register user3 password3
+~login user1password1
+hello from user 1
+~getlist
+~logout
+~register user1 password1
+~logout
